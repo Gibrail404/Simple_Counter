@@ -18,4 +18,8 @@ This repository contains a Simple Counter project implemented using HTML, CSS, a
 4. Click the "Decrement" button to decrease the count.
 5. Click the "Reset" button to set the count back to zero.
 
+ ## Demo
+ 
+[click here](https://gibrail404.github.io/Simple_Counter/)
+
 
